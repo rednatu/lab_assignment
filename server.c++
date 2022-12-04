@@ -54,4 +54,12 @@ int main(){
      len = sizeof(serv_name);
      connect_sock = accept(sock, (struct sockaddr *)&serv_name, &len); //int	accept(int, struct sockaddr * __restrict, socklen_t * __restrict) __DARWIN_ALIAS_C(accept);
      
+   
+       for (count = 1; count <= SIM_LENGTH; count++)
+      { write(connect_sock, &count, 4); // Defined in io.h header file
+        printf("Server has written %d to socket.\n", count);
+
+      close(connect_sock); /* close connected socket */
+      clean_up(0, &sock); 
+      }
 }   
