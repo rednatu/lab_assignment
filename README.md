@@ -25,23 +25,53 @@ Server has written 4 to socket.
 
 
 Server has written 5 to socket.
+
+
 Server has written 6 to socket.
+
+
 Server has written 7 to socket.
+
+
 Server has written 8 to socket.
+
+
 Server has written 9 to socket.
+
+
 Server has written 10 to socket."
 
 when running the client.c file it outputs:
 "Client is alive and establishing socket connection
+
+
 Client has recieved 1 from socket.
+
+
 Client has recieved 2 from socket.
+
+
 Client has recieved 3 from socket.
+
+
 Client has recieved 4 from socket.
+
+
 Client has recieved 5 from socket.
+
+
 Client has recieved 6 from socket.
+
+
 Client has recieved 7 from socket.
+
+
 Client has recieved 8 from socket.
+
+
 Client has recieved 9 from socket.
+
+
 Client has recieved 10 from socket."
 
 Step 6:
