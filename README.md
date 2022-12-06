@@ -77,4 +77,4 @@ Client has recieved 10 from socket."
 Step 6:
 when running the client.c file without running the server.c file first, it outputs:
 "Client is alive and establishing socket connection
- Error establishing communication: connection refused"
+ Error establishing communication: connection refused" 
