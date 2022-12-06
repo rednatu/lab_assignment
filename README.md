@@ -13,9 +13,17 @@ when running the client.c file it outputs:
  When running the server.c file it outputs:
 "Server is alive and waiting for socket connection from client
 Server has written 1 to socket.
+
+
 Server has written 2 to socket.
+
+
 Server has written 3 to socket.
+
+
 Server has written 4 to socket.
+
+
 Server has written 5 to socket.
 Server has written 6 to socket.
 Server has written 7 to socket.
