@@ -8,6 +8,8 @@ then does nothing
 when running the client.c file it outputs:
 "Client is alive and establishing socket connection
  Error establishing communication: connection refused"
+
+and we understand what they do,how they function and operate.
  
  Step 5:
  When running the server.c file it outputs:
