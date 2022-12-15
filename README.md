@@ -11,7 +11,10 @@ when running the client.c file it outputs:
 
 and we understand what they do,how they function and operate.
  
- Step 5:
+ Step 5:   
+ we gave our computer addres to the client then the server and
+the client found on the same host so they communicate quickly.
+
  When running the server.c file it outputs:
 "Server is alive and waiting for socket connection from client
 Server has written 1 to socket.
