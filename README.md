@@ -7,7 +7,7 @@ then does nothing
 
 when running the client.c file it outputs:
 "Client is alive and establishing socket connection
- Error establishing communication: connection refused"
+ Error establishing communication: connection refused.
  
  Step 5:
  When running the server.c file it outputs:
